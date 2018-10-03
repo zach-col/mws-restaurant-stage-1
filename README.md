@@ -13,6 +13,6 @@ React API project
 # Resources used
 - https://developers.google.com/web/fundamentals/primers/service-workers/lifecycle
 - https://medium.com/beginners-guide-to-mobile-web-development/service-worker-79f655b85465
+- https://medium.com/quick-code/service-workers-in-js-and-offline-reading-7bac9d4980ea
 - https://www.w3.org/TR/using-aria/
 - https://www.w3schools.com/html/html_accessibility.asp
-- https://medium.com/quick-code/service-workers-in-js-and-offline-reading-7bac9d4980ea
